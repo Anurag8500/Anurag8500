@@ -9,13 +9,18 @@
 
 &nbsp;
 
-[LinkedIn](https://linkedin.com/in/anurag-bardhan) &nbsp;·&nbsp; [X (Twitter)](https://x.com/AnuragBardhan)
+<p align="left">
+  <a href="https://anurag8500.github.io"><code>portfolio</code></a> &nbsp;
+  <a href="https://linkedin.com/in/anurag-bardhan"><code>linkedin</code></a> &nbsp;
+  <a href="https://x.com/AnuragBardhan"><code>twitter</code></a> &nbsp;
+  <a href="mailto:anuragbardhan8500@gmail.com"><code>email</code></a>
+</p>
 
 &nbsp;
 
 ---
 
-## NOW
+## CURRENT FOCUS
 
 *Focus areas and current explorations:*
 
