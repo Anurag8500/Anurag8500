@@ -26,18 +26,6 @@
 
 &nbsp;
 
-## GITHUB STREAK
-
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Anurag8500&theme=github-dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Anurag8500&theme=github-light&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=Anurag8500&theme=default&hide_border=true" alt="Anurag's GitHub Streak" />
-  </picture>
-</p>
-
-&nbsp;
-
 ---
 
 ## CURRENT FOCUS
@@ -117,8 +105,17 @@
 
 *   **[Veridus](https://github.com/Anurag8500/Veridus-Diversion2K26)** &nbsp;·&nbsp; Decentralized identity & verification system built for the Diversion hackathon. `Web3` · `Identity`
 *   **[Yaplog](https://github.com/Anurag8500/yaplog)** &nbsp;·&nbsp; Minimalist developer logging and micro-journaling platform. `Full-Stack` · `Developer Tools`
-
 &nbsp;
+
+## GITHUB STREAK
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/streak-light.svg" />
+    <img src="./profile/streak-dark.svg" alt="GitHub Streak" />
+  </picture>
+</p>
 
 &nbsp;
 
