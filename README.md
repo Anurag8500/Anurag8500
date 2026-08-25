@@ -10,10 +10,30 @@
 &nbsp;
 
 <p align="left">
-  <a href="https://anurag8500.github.io"><code>portfolio</code></a> &nbsp;
-  <a href="https://linkedin.com/in/anurag-bardhan"><code>linkedin</code></a> &nbsp;
-  <a href="https://x.com/AnuragBardhan"><code>twitter</code></a> &nbsp;
-  <a href="mailto:anuragbardhan8500@gmail.com"><code>email</code></a>
+  <a href="https://anurag8500.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/anurag-bardhan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://x.com/AnuragBardhan" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>&nbsp;
+  <a href="mailto:anuragbardhan8500@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+&nbsp;
+
+## GITHUB STREAK
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Anurag8500&theme=github-dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Anurag8500&theme=github-light&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=Anurag8500&theme=default&hide_border=true" alt="Anurag's GitHub Streak" />
+  </picture>
 </p>
 
 &nbsp;
@@ -102,4 +122,4 @@
 
 &nbsp;
 
-<p align="center"><i>building things worth understanding.</i></p>
+<p align="center"><i>Building things worth understanding.</i></p>
