@@ -10,7 +10,7 @@
 &nbsp;
 
 <p align="left">
-  <a href="https://anurag8500.github.io" target="_blank">
+  <a href="https://anurag-devs.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>&nbsp;
   <a href="https://linkedin.com/in/anurag-bardhan" target="_blank">
